@@ -97,9 +97,7 @@ function renderCatalogModals(selecetor) {//needs to get a selecetor and add img 
     var elCatalog = document.querySelector(selecetor);
     elCatalog.innerHTML = strCatalogItems;
 }
-function linkToEmail(){
-    
-}
+
 
 function renderPortfolio(selecetor) {
     var strPortfolioItems = '';
